@@ -29,7 +29,7 @@ x-enrichment:
   last_run: '2026-07-18'
   status: minimal
   note: No public API, OpenAPI, SDK, developer docs, or /.well-known surface exists (all 404 on www.runcanary.ai as of 2026-07-18). Early-stage 2-person YC W26 product with a marketing site only; no artifacts could be produced without fabrication. Only the identity/link-property pass was applied.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
